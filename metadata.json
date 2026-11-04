@@ -1,0 +1,6 @@
+{
+  "name": "Ketapel Kata: Petualangan Sinonim & Antonim SD",
+  "description": "Game edukasi fisika ketapel interaktif untuk belajar kosakata sinonim dan antonim Bahasa Indonesia siswa SD dengan level berjenjang, multiplayer real-time, kustomisasi avatar, dan laporan kemajuan akademik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
